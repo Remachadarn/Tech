@@ -1,0 +1,22 @@
+body{
+    background-color: silver;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+
+ul{
+    color: white;
+    font-size: 25px;
+}
+
+img{
+    height: 170px;
+    width: 250px;
+}
