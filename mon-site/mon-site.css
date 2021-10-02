@@ -1,0 +1,33 @@
+body{
+    background-color: silver;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+
+ul{
+    color: white;
+    font-size: 25px;
+}
+
+img{
+    height: 170px;
+    width: 250px;
+}
+
+table, th, td, tr{
+    border: 1px solid rgb(0, 0, 0);
+    width: 50%;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
