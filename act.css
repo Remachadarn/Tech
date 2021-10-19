@@ -1,0 +1,46 @@
+header{
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    border: 3px solid black;
+}
+nav {
+    background-color: yellow;
+    width: 20%;
+    height: 30%;
+    float: left;
+    margin: 20px;
+    position: absolute;
+    border: 3px solid black;
+}
+section{
+    background-color:blue;
+    padding: 60px;
+    float: right;
+    width: 30%;
+    border: 3px solid black;
+}
+article{
+    background-color: green;
+    width: 50%;
+    height: 50%;
+    padding:inherit;
+    border: 3px solid black;
+}
+aside{
+    background-color:darkviolet;
+    float: right;
+    vertical-align: top;
+    position: absolute;
+    right: 30px ;
+    bottom: 430px;
+    border: 3px solid black;
+}
+footer{
+    background-color: magenta;
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    border: 3px solid black;
+}
