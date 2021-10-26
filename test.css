@@ -1,0 +1,15 @@
+div {
+    width: 2000px;
+    height: 2000px;
+    background-color: red;
+    position:fixed;
+    animation: myfirst 0.0001s linear 0.0001s infinite;
+  }
+  
+  @keyframes myfirst {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:00; top:0px;}
+    50%  {background-color:blue; left:0px; top:0px;}
+    75%  {background-color:green; left:0px; top:0px;}
+    100% {background-color:red; left:0px; top:0px;};
+  } 
